@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    background-image: url("https://cdn.wallpaperhub.app/cloudcache/7/c/4/d/3/0/7c4d3040631ac5f3f3b6bdae70a7b63a7d2c9f29.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;}
